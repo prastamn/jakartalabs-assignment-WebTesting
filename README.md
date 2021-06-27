@@ -1,1 +1,1 @@
-# jakartalabs-assignment-WebTesting
+Repository that contains assignment given from bootcamp automation testing jakarta labs - API Testing assignment
