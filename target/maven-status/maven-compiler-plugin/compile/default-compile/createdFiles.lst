@@ -1,0 +1,17 @@
+com\jakartalabs\assignment2may2021\pages\DashboardPage.class
+com\jakartalabs\assignment2may2021\pages\WelcomePage.class
+com\jakartalabs\assignment2may2021\AppEnums$DivClassNames.class
+com\jakartalabs\assignment2may2021\AppEnums.class
+com\jakartalabs\assignment2may2021\pages\FeaturePage.class
+com\jakartalabs\assignment2may2021\utils\DataUtils.class
+com\jakartalabs\assignment2may2021\AppEnums$NavigationCommands.class
+com\jakartalabs\assignment2may2021\AppEnums$TextBoxNames.class
+com\jakartalabs\assignment2may2021\AppEnums$ButtonNames.class
+com\jakartalabs\assignment2may2021\AppEnums$SpanNames.class
+com\jakartalabs\assignment2may2021\pages\LoginPage.class
+com\jakartalabs\assignment2may2021\utils\TestUtils.class
+com\jakartalabs\assignment2may2021\pages\BasePage.class
+com\jakartalabs\assignment2may2021\pages\DeliveryPage.class
+com\jakartalabs\assignment2may2021\pages\HomePage.class
+com\jakartalabs\assignment2may2021\AppEnums$MenuNames.class
+com\jakartalabs\assignment2may2021\pages\BuildCardPage.class
