@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Web Test Suite" duration-ms="70897" started-at="2021-06-27T03:48:30Z" finished-at="2021-06-27T03:49:41Z">
+  <suite name="Web Test Suite" duration-ms="68952" started-at="2021-06-27T04:05:28Z" finished-at="2021-06-27T04:06:37Z">
     <groups>
     </groups>
-    <test name="Web Tests" duration-ms="70897" started-at="2021-06-27T03:48:30Z" finished-at="2021-06-27T03:49:41Z">
+    <test name="Web Tests" duration-ms="68952" started-at="2021-06-27T04:05:28Z" finished-at="2021-06-27T04:06:37Z">
       <class name="com.jakartalabs.assignment2may2021.tests.AppTest">
-        <test-method status="PASS" signature="createWebDriver()[pri:0, instance:com.jakartalabs.assignment2may2021.tests.AppTest@3701eaf6]" name="createWebDriver" is-config="true" duration-ms="17300" started-at="2021-06-27T03:48:31Z" finished-at="2021-06-27T03:48:48Z">
+        <test-method status="PASS" signature="createWebDriver()[pri:0, instance:com.jakartalabs.assignment2may2021.tests.AppTest@3701eaf6]" name="createWebDriver" is-config="true" duration-ms="13085" started-at="2021-06-27T04:05:28Z" finished-at="2021-06-27T04:05:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createWebDriver -->
-        <test-method status="PASS" signature="LoginAndCreateProject()[pri:0, instance:com.jakartalabs.assignment2may2021.tests.AppTest@3701eaf6]" name="LoginAndCreateProject" duration-ms="52531" started-at="2021-06-27T03:48:48Z" finished-at="2021-06-27T03:49:40Z">
+        <test-method status="PASS" signature="LoginAndCreateProject()[pri:0, instance:com.jakartalabs.assignment2may2021.tests.AppTest@3701eaf6]" name="LoginAndCreateProject" duration-ms="54362" started-at="2021-06-27T04:05:41Z" finished-at="2021-06-27T04:06:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginAndCreateProject -->
-        <test-method status="PASS" signature="quitWebDriver(org.testng.ITestResult)[pri:0, instance:com.jakartalabs.assignment2may2021.tests.AppTest@3701eaf6]" name="quitWebDriver" is-config="true" duration-ms="995" started-at="2021-06-27T03:49:40Z" finished-at="2021-06-27T03:49:41Z">
+        <test-method status="PASS" signature="quitWebDriver(org.testng.ITestResult)[pri:0, instance:com.jakartalabs.assignment2may2021.tests.AppTest@3701eaf6]" name="quitWebDriver" is-config="true" duration-ms="1434" started-at="2021-06-27T04:06:35Z" finished-at="2021-06-27T04:06:37Z">
           <params>
             <param index="0">
               <value>
